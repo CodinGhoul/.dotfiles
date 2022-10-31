@@ -6,4 +6,4 @@
 - link:
     ~/.vimrc:
     ~/.ideavimrc:
-    ~/.config/nvim/init.vim: nvim/init.vim
+    ~/.config/nvim/init.vim: neovim/init.vim
