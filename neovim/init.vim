@@ -1,4 +1,4 @@
-:language en_US.UTF8
+:language en_US.UTF-8
 
 :set number
 :set relativenumber
