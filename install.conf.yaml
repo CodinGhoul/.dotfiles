@@ -1,3 +1,9 @@
+- defaults:
+    link:
+        relink: true
+        create: true
+
 - link:
     ~/.vimrc:
     ~/.ideavimrc:
+    ~/.config/nvim/init.vim: nvim/init.vim
