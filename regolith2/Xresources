@@ -1,0 +1,12 @@
+! refresh with `regolith-look refresh`
+regolith.wallpaper.file: ~/.dotfiles/assets/wallpaper/main.jpg
+regolith.wallpaper.options: zoom
+regolith.lockscreen.wallpaper.file: ~/.dotfiles/assets/wallpaper/lockscreen.jpg
+regolith.lockscreen.wallpaper.options: zoom
+
+i3-wm.workspace.01.name: 1 1: Main
+
+i3-wm.bar.stripworkspacenumbers: true
+regolith.look.path: /usr/share/regolith-look/nord
+
+gnome.terminal.font: Ubuntu Mono 12

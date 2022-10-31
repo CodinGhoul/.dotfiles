@@ -4,6 +4,11 @@
         create: true
 
 - link:
+    ~/.dotfiles: ''
     ~/.vimrc:
+    ~/.zshrc:
     ~/.ideavimrc:
     ~/.config/nvim/init.vim: neovim/init.vim
+    ~/.config/regolith2/Xresources:
+        path: regolith2/Xresources
+        if: '[ $XDG_SESSION_DESKTOP = regolith ]'
