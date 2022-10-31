@@ -12,3 +12,4 @@
     ~/.config/regolith2/Xresources:
         path: regolith2/Xresources
         if: '[ $XDG_SESSION_DESKTOP = regolith ]'
+    ~/.gitconfig:
