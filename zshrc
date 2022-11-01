@@ -100,6 +100,8 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+bindkey -v
+
 export PATH="$PATH:$HOME/.local/bin"
 
 if [ -f ~/.zshrc_local_after ]; then
